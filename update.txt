@@ -1,0 +1,14 @@
+product.php
+quanliloaihang.php
+quanlytaikhoan.php
+quanlidonhang.php
+danhsach.php
+dashboard.php
+xoadonhang.php
+xoadonhang.php
+xoataikhoan.php
+themloaihang.php
+sualoaihang.php
+suadonhang.php
+admin.css
+sua.php

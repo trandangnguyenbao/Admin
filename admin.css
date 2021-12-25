@@ -1,0 +1,120 @@
+#header{
+    height: 500px;
+    width: 100%;
+}
+
+ul.header__top{
+    padding: 0 10%;
+    height: 45px;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+    line-height: 45px;
+}
+li.header__top--item{
+    font-size: 15px;
+    color: #737475;
+}
+li.header__top--item i{
+    color: coral;
+    font-size: 20px;
+}
+.nav{
+height: 65px;
+width: 100%;
+background-color: #f18a1c;
+padding: 0 7%;
+display: flex;
+}
+
+.nav img{
+    height: 36px;
+    width: 300px;
+    margin-top: 10px;
+}
+
+ul.nav__list{
+    display: flex;
+    padding-left: 100px;
+    line-height: 65px;
+}
+li.nav__list--item{
+    padding-left: 15px;
+    font-size: 20px;
+    color: #fff;
+}
+.background{
+    height: 390px;
+    width: 100%;
+}
+
+.background img{
+    height: 100%;
+    width: 100%;
+}
+   
+.wrapper{
+    
+    padding:1%;
+    width: 80%;
+    margin: 0 auto;
+}
+.wrapper h1{
+	font-family: 'Lobster1.4Regular';
+	color:#737475;
+}
+.text-center{
+    text-align: center;
+	padding: 2%;
+}
+
+.clearfix{
+    float:none;
+    clear:both;
+}
+
+/* css for main-content*/
+.main-content{
+    
+    background-color: #f1f2f6;
+    padding: 3% 0;
+
+}
+
+.col-4{
+    width: 23%;
+    background-color: white ;
+    margin: 1%;
+    padding: 3%;
+    float: left ;
+}
+
+.col-4 h1{
+    color: #80210b;
+}
+
+.card{
+    padding: 30px 5%;
+}
+
+.card-header h1{
+    color: #737475;
+}
+
+.card-footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.search input.form-control{
+    height: 20px;
+    width: 80px;
+}
+
+th{
+   border: 1px solid #fff ;
+    text-align: center;
+}
+
